@@ -1,0 +1,491 @@
+2018-11-12 13:15:42 >> 0:0:0:0:0:0:0:1:55486 >> Accepting Connection
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55487 >> Accepting Connection
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55486 >> New Request: GET / HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886; _gat=1
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55486 >> Requested file: index.html
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55486 >> Sending Contents With MIME Type: text/html
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55486 >> Terminating Connection
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55486 >> Terminated Connection
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55488 >> Accepting Connection
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55487 >> New Request: GET /styles/main.css HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://localhost:8080/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886; _gat=1
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55487 >> /styles/main.css File Not Found in Directory
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55487 >> Sending Contents With MIME Type: text/html
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55487 >> Terminating Connection
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55487 >> Terminated Connection
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55488 >> New Request: GET /scripts/main.js HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: */*
+Referer: http://localhost:8080/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886; _gat=1
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55488 >> /scripts/main.js File Not Found in Directory
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55488 >> Sending Contents With MIME Type: text/html
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55488 >> Terminating Connection
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55488 >> Terminated Connection
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55489 >> Accepting Connection
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55489 >> New Request: GET /scripts/main.js HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: */*
+Referer: http://localhost:8080/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886; _gat=1
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55489 >> /scripts/main.js File Not Found in Directory
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55489 >> Sending Contents With MIME Type: text/html
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55489 >> Terminating Connection
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55489 >> Terminated Connection
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55490 >> Accepting Connection
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55490 >> New Request: GET /manifest.json HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: */*
+Referer: http://localhost:8080/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55490 >> /manifest.json File Not Found in Directory
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55490 >> Sending Contents With MIME Type: text/html
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55490 >> Terminating Connection
+2018-11-12 13:15:43 >> 0:0:0:0:0:0:0:1:55490 >> Terminated Connection
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55491 >> Accepting Connection
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55492 >> Accepting Connection
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55491 >> New Request: GET / HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55491 >> Requested file: index.html
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55491 >> Sending Contents With MIME Type: text/html
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55491 >> Terminating Connection
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55491 >> Terminated Connection
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55493 >> Accepting Connection
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55492 >> New Request: GET /styles/main.css HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://localhost:8080/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55492 >> /styles/main.css File Not Found in Directory
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55492 >> Sending Contents With MIME Type: text/html
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55492 >> Terminating Connection
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55492 >> Terminated Connection
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55493 >> New Request: GET /scripts/main.js HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: */*
+Referer: http://localhost:8080/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55493 >> /scripts/main.js File Not Found in Directory
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55493 >> Sending Contents With MIME Type: text/html
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55493 >> Terminating Connection
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55493 >> Terminated Connection
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55494 >> Accepting Connection
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55494 >> New Request: GET /scripts/main.js HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: */*
+Referer: http://localhost:8080/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55494 >> /scripts/main.js File Not Found in Directory
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55494 >> Sending Contents With MIME Type: text/html
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55494 >> Terminating Connection
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55494 >> Terminated Connection
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55495 >> Accepting Connection
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55495 >> New Request: GET /manifest.json HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: */*
+Referer: http://localhost:8080/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55495 >> /manifest.json File Not Found in Directory
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55495 >> Sending Contents With MIME Type: text/html
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55495 >> Terminating Connection
+2018-11-12 13:15:53 >> 0:0:0:0:0:0:0:1:55495 >> Terminated Connection
+2018-11-12 13:16:00 >> 0:0:0:0:0:0:0:1:55496 >> Accepting Connection
+2018-11-12 13:16:00 >> 0:0:0:0:0:0:0:1:55497 >> Accepting Connection
+2018-11-12 13:16:00 >> 0:0:0:0:0:0:0:1:55496 >> New Request: GET /Assignment.pdf HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886; _gat=1
+2018-11-12 13:16:00 >> 0:0:0:0:0:0:0:1:55496 >> Requested file: Assignment.pdf
+2018-11-12 13:16:00 >> 0:0:0:0:0:0:0:1:55496 >> Sending Contents With MIME Type: application/pdf
+2018-11-12 13:16:00 >> 0:0:0:0:0:0:0:1:55496 >> Terminating Connection
+2018-11-12 13:16:00 >> 0:0:0:0:0:0:0:1:55496 >> Terminated Connection
+2018-11-12 13:16:00 >> 0:0:0:0:0:0:0:1:55497 >> New Request: GET /favicon.ico HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://localhost:8080/Assignment.pdf
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886; _gat=1
+2018-11-12 13:16:00 >> 0:0:0:0:0:0:0:1:55497 >> /favicon.ico File Not Found in Directory
+2018-11-12 13:16:00 >> 0:0:0:0:0:0:0:1:55497 >> Sending Contents With MIME Type: text/html
+2018-11-12 13:16:00 >> 0:0:0:0:0:0:0:1:55497 >> Terminating Connection
+2018-11-12 13:16:00 >> 0:0:0:0:0:0:0:1:55497 >> Terminated Connection
+2018-11-12 13:16:30 >> 0:0:0:0:0:0:0:1:55498 >> Accepting Connection
+2018-11-12 13:16:30 >> 0:0:0:0:0:0:0:1:55499 >> Accepting Connection
+2018-11-12 13:16:30 >> 0:0:0:0:0:0:0:1:55498 >> New Request: GET /jpgpic.jpg HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886; _gat=1
+2018-11-12 13:16:30 >> 0:0:0:0:0:0:0:1:55498 >> Requested file: jpgpic.jpg
+2018-11-12 13:16:30 >> 0:0:0:0:0:0:0:1:55498 >> Sending Contents With MIME Type: image/jpeg
+2018-11-12 13:16:30 >> 0:0:0:0:0:0:0:1:55498 >> Terminating Connection
+2018-11-12 13:16:30 >> 0:0:0:0:0:0:0:1:55498 >> Terminated Connection
+2018-11-12 13:16:40 >> 0:0:0:0:0:0:0:1:55499 >> Terminating Connection
+2018-11-12 13:16:40 >> 0:0:0:0:0:0:0:1:55499 >> Terminated Connection
+2018-11-12 13:16:40 >> 0:0:0:0:0:0:0:1:55500 >> Accepting Connection
+2018-11-12 13:16:40 >> 0:0:0:0:0:0:0:1:55501 >> Accepting Connection
+2018-11-12 13:16:40 >> 0:0:0:0:0:0:0:1:55500 >> New Request: GET /icon.ico HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886; _gat=1
+2018-11-12 13:16:40 >> 0:0:0:0:0:0:0:1:55500 >> Requested file: icon.ico
+2018-11-12 13:16:40 >> 0:0:0:0:0:0:0:1:55500 >> Sending Contents With MIME Type: image/x-icon
+2018-11-12 13:16:40 >> 0:0:0:0:0:0:0:1:55500 >> Terminating Connection
+2018-11-12 13:16:40 >> 0:0:0:0:0:0:0:1:55500 >> Terminated Connection
+2018-11-12 13:16:48 >> 0:0:0:0:0:0:0:1:55501 >> New Request: GET /tiger.bmp HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886; _gat=1
+2018-11-12 13:16:48 >> 0:0:0:0:0:0:0:1:55502 >> Accepting Connection
+2018-11-12 13:16:48 >> 0:0:0:0:0:0:0:1:55501 >> Requested file: tiger.bmp
+2018-11-12 13:16:48 >> 0:0:0:0:0:0:0:1:55501 >> Sending Contents With MIME Type: image/bmp
+2018-11-12 13:16:48 >> 0:0:0:0:0:0:0:1:55501 >> Terminating Connection
+2018-11-12 13:16:48 >> 0:0:0:0:0:0:0:1:55501 >> Terminated Connection
+2018-11-12 13:17:12 >> 0:0:0:0:0:0:0:1:55502 >> Terminating Connection
+2018-11-12 13:17:12 >> 0:0:0:0:0:0:0:1:55502 >> Terminated Connection
+2018-11-12 13:17:12 >> 0:0:0:0:0:0:0:1:55503 >> Accepting Connection
+2018-11-12 13:17:12 >> 0:0:0:0:0:0:0:1:55504 >> Accepting Connection
+2018-11-12 13:17:12 >> 0:0:0:0:0:0:0:1:55503 >> New Request: GET /post_html.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886
+2018-11-12 13:17:12 >> 0:0:0:0:0:0:0:1:55503 >> /post_html.html File Not Found in Directory
+2018-11-12 13:17:12 >> 0:0:0:0:0:0:0:1:55503 >> Sending Contents With MIME Type: text/html
+2018-11-12 13:17:12 >> 0:0:0:0:0:0:0:1:55503 >> Terminating Connection
+2018-11-12 13:17:12 >> 0:0:0:0:0:0:0:1:55503 >> Terminated Connection
+2018-11-12 13:17:26 >> 0:0:0:0:0:0:0:1:55504 >> Terminating Connection
+2018-11-12 13:17:26 >> 0:0:0:0:0:0:0:1:55504 >> Terminated Connection
+2018-11-12 13:17:26 >> 0:0:0:0:0:0:0:1:55505 >> Accepting Connection
+2018-11-12 13:17:26 >> 0:0:0:0:0:0:0:1:55506 >> Accepting Connection
+2018-11-12 13:17:26 >> 0:0:0:0:0:0:0:1:55505 >> New Request: GET /http_post.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886
+2018-11-12 13:17:26 >> 0:0:0:0:0:0:0:1:55505 >> Requested file: http_post.html
+2018-11-12 13:17:26 >> 0:0:0:0:0:0:0:1:55505 >> Sending Contents With MIME Type: text/html
+2018-11-12 13:17:26 >> 0:0:0:0:0:0:0:1:55505 >> Terminating Connection
+2018-11-12 13:17:26 >> 0:0:0:0:0:0:0:1:55505 >> Terminated Connection
+2018-11-12 13:17:30 >> 0:0:0:0:0:0:0:1:55507 >> Accepting Connection
+2018-11-12 13:17:30 >> 0:0:0:0:0:0:0:1:55506 >> New Request: POST /form_submited HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Content-Length: 14
+Cache-Control: max-age=0
+Origin: http://localhost:8080
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://localhost:8080/http_post.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886
+
+user=Subangkar
+2018-11-12 13:17:30 >> 0:0:0:0:0:0:0:1:55506 >> Received Form Data: Subangkar
+2018-11-12 13:17:30 >> 0:0:0:0:0:0:0:1:55506 >> Sending Contents With MIME Type: text/html
+2018-11-12 13:17:30 >> 0:0:0:0:0:0:0:1:55506 >> Terminating Connection
+2018-11-12 13:17:30 >> 0:0:0:0:0:0:0:1:55506 >> Terminated Connection
+2018-11-12 13:23:24 >> 0:0:0:0:0:0:0:1:55507 >> Terminating Connection
+2018-11-12 13:23:24 >> 0:0:0:0:0:0:0:1:55531 >> Accepting Connection
+2018-11-12 13:23:24 >> 0:0:0:0:0:0:0:1:55507 >> Terminated Connection
+2018-11-12 13:23:24 >> 0:0:0:0:0:0:0:1:55532 >> Accepting Connection
+2018-11-12 13:23:24 >> 0:0:0:0:0:0:0:1:55531 >> New Request: GET /tiger.bmp HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886
+2018-11-12 13:23:24 >> 0:0:0:0:0:0:0:1:55531 >> Requested file: tiger.bmp
+2018-11-12 13:23:24 >> 0:0:0:0:0:0:0:1:55531 >> Sending Contents With MIME Type: image/bmp
+2018-11-12 13:23:24 >> 0:0:0:0:0:0:0:1:55531 >> Terminating Connection
+2018-11-12 13:23:24 >> 0:0:0:0:0:0:0:1:55531 >> Terminated Connection
+2018-11-12 13:23:42 >> 0:0:0:0:0:0:0:1:55532 >> Terminating Connection
+2018-11-12 13:23:42 >> 0:0:0:0:0:0:0:1:55532 >> Terminated Connection
+2018-11-12 13:23:42 >> 0:0:0:0:0:0:0:1:55538 >> Accepting Connection
+2018-11-12 13:23:42 >> 0:0:0:0:0:0:0:1:55538 >> New Request: GET /headings.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886
+2018-11-12 13:23:42 >> 0:0:0:0:0:0:0:1:55539 >> Accepting Connection
+2018-11-12 13:23:42 >> 0:0:0:0:0:0:0:1:55538 >> /headings.html File Not Found in Directory
+2018-11-12 13:23:42 >> 0:0:0:0:0:0:0:1:55538 >> Sending Contents With MIME Type: text/html
+2018-11-12 13:23:42 >> 0:0:0:0:0:0:0:1:55538 >> Terminating Connection
+2018-11-12 13:23:42 >> 0:0:0:0:0:0:0:1:55538 >> Terminated Connection
+2018-11-12 13:23:48 >> 0:0:0:0:0:0:0:1:55542 >> Accepting Connection
+2018-11-12 13:23:48 >> 0:0:0:0:0:0:0:1:55539 >> New Request: GET /header.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886
+2018-11-12 13:23:48 >> 0:0:0:0:0:0:0:1:55539 >> Requested file: header.html
+2018-11-12 13:23:48 >> 0:0:0:0:0:0:0:1:55539 >> Sending Contents With MIME Type: text/html
+2018-11-12 13:23:48 >> 0:0:0:0:0:0:0:1:55539 >> Terminating Connection
+2018-11-12 13:23:48 >> 0:0:0:0:0:0:0:1:55539 >> Terminated Connection
+2018-11-12 13:24:16 >> 0:0:0:0:0:0:0:1:55542 >> Terminating Connection
+2018-11-12 13:24:16 >> 0:0:0:0:0:0:0:1:55542 >> Terminated Connection
+2018-11-12 13:36:26 >> 0:0:0:0:0:0:0:1:55637 >> Accepting Connection
+2018-11-12 13:36:26 >> 0:0:0:0:0:0:0:1:55638 >> Accepting Connection
+2018-11-12 13:36:26 >> 0:0:0:0:0:0:0:1:55637 >> New Request: GET /jpgpic.jpg HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886
+2018-11-12 13:36:26 >> 0:0:0:0:0:0:0:1:55637 >> Requested file: jpgpic.jpg
+2018-11-12 13:36:26 >> 0:0:0:0:0:0:0:1:55637 >> Sending Contents With MIME Type: image/jpeg
+2018-11-12 13:36:26 >> 0:0:0:0:0:0:0:1:55637 >> Terminating Connection
+2018-11-12 13:36:26 >> 0:0:0:0:0:0:0:1:55637 >> Terminated Connection
+2018-11-12 13:36:33 >> 0:0:0:0:0:0:0:1:55638 >> New Request: GET /Assignment.pdf HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886
+2018-11-12 13:36:33 >> 0:0:0:0:0:0:0:1:55638 >> Requested file: Assignment.pdf
+2018-11-12 13:36:33 >> 0:0:0:0:0:0:0:1:55640 >> Accepting Connection
+2018-11-12 13:36:33 >> 0:0:0:0:0:0:0:1:55638 >> Sending Contents With MIME Type: application/pdf
+2018-11-12 13:36:33 >> 0:0:0:0:0:0:0:1:55638 >> Terminating Connection
+2018-11-12 13:36:33 >> 0:0:0:0:0:0:0:1:55638 >> Terminated Connection
+2018-11-12 13:37:17 >> 0:0:0:0:0:0:0:1:55640 >> Terminating Connection
+2018-11-12 13:37:17 >> 0:0:0:0:0:0:0:1:55640 >> Terminated Connection
+2018-11-12 13:37:17 >> 0:0:0:0:0:0:0:1:55642 >> Accepting Connection
+2018-11-12 13:37:17 >> 0:0:0:0:0:0:0:1:55643 >> Accepting Connection
+2018-11-12 13:37:17 >> 0:0:0:0:0:0:0:1:55642 >> New Request: GET /http_post.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886
+2018-11-12 13:37:17 >> 0:0:0:0:0:0:0:1:55642 >> Requested file: http_post.html
+2018-11-12 13:37:17 >> 0:0:0:0:0:0:0:1:55642 >> Sending Contents With MIME Type: text/html
+2018-11-12 13:37:17 >> 0:0:0:0:0:0:0:1:55642 >> Terminating Connection
+2018-11-12 13:37:17 >> 0:0:0:0:0:0:0:1:55642 >> Terminated Connection
+2018-11-12 13:37:21 >> 0:0:0:0:0:0:0:1:55644 >> Accepting Connection
+2018-11-12 13:37:21 >> 0:0:0:0:0:0:0:1:55643 >> New Request: POST /form_submited HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Content-Length: 8
+Cache-Control: max-age=0
+Origin: http://localhost:8080
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://localhost:8080/http_post.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886
+
+user=Abc
+2018-11-12 13:37:21 >> 0:0:0:0:0:0:0:1:55643 >> Received Form Data: Abc
+2018-11-12 13:37:21 >> 0:0:0:0:0:0:0:1:55643 >> Sending Contents With MIME Type: text/html
+2018-11-12 13:37:21 >> 0:0:0:0:0:0:0:1:55643 >> Terminating Connection
+2018-11-12 13:37:21 >> 0:0:0:0:0:0:0:1:55643 >> Terminated Connection
+2018-11-12 13:37:29 >> 0:0:0:0:0:0:0:1:55644 >> New Request: GET /abx HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886
+2018-11-12 13:37:29 >> 0:0:0:0:0:0:0:1:55644 >> /abx File Not Found in Directory
+2018-11-12 13:37:29 >> 0:0:0:0:0:0:0:1:55644 >> Sending Contents With MIME Type: text/html
+2018-11-12 13:37:29 >> 0:0:0:0:0:0:0:1:55644 >> Terminating Connection
+2018-11-12 13:37:29 >> 0:0:0:0:0:0:0:1:55645 >> Accepting Connection
+2018-11-12 13:37:29 >> 0:0:0:0:0:0:0:1:55644 >> Terminated Connection
+2018-11-12 13:37:35 >> 0:0:0:0:0:0:0:1:55645 >> New Request: GET / HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886
+2018-11-12 13:37:35 >> 0:0:0:0:0:0:0:1:55645 >> Requested file: index.html
+2018-11-12 13:37:35 >> 0:0:0:0:0:0:0:1:55648 >> Accepting Connection
+2018-11-12 13:37:35 >> 0:0:0:0:0:0:0:1:55645 >> Sending Contents With MIME Type: text/html
+2018-11-12 13:37:35 >> 0:0:0:0:0:0:0:1:55645 >> Terminating Connection
+2018-11-12 13:37:35 >> 0:0:0:0:0:0:0:1:55645 >> Terminated Connection
+2018-11-12 13:37:35 >> 0:0:0:0:0:0:0:1:55648 >> New Request: GET /styles/main.css HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://localhost:8080/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886
+2018-11-12 13:37:35 >> 0:0:0:0:0:0:0:1:55649 >> Accepting Connection
+2018-11-12 13:37:35 >> 0:0:0:0:0:0:0:1:55648 >> /styles/main.css File Not Found in Directory
+2018-11-12 13:37:35 >> 0:0:0:0:0:0:0:1:55648 >> Sending Contents With MIME Type: text/html
+2018-11-12 13:37:35 >> 0:0:0:0:0:0:0:1:55648 >> Terminating Connection
+2018-11-12 13:37:35 >> 0:0:0:0:0:0:0:1:55648 >> Terminated Connection
+2018-11-12 13:37:35 >> 0:0:0:0:0:0:0:1:55649 >> New Request: GET /scripts/main.js HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: */*
+Referer: http://localhost:8080/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886
+2018-11-12 13:37:35 >> 0:0:0:0:0:0:0:1:55649 >> /scripts/main.js File Not Found in Directory
+2018-11-12 13:37:35 >> 0:0:0:0:0:0:0:1:55649 >> Sending Contents With MIME Type: text/html
+2018-11-12 13:37:35 >> 0:0:0:0:0:0:0:1:55649 >> Terminating Connection
+2018-11-12 13:37:35 >> 0:0:0:0:0:0:0:1:55649 >> Terminated Connection
+2018-11-12 13:37:36 >> 0:0:0:0:0:0:0:1:55650 >> Accepting Connection
+2018-11-12 13:37:36 >> 0:0:0:0:0:0:0:1:55650 >> New Request: GET /scripts/main.js HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: */*
+Referer: http://localhost:8080/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886
+2018-11-12 13:37:36 >> 0:0:0:0:0:0:0:1:55650 >> /scripts/main.js File Not Found in Directory
+2018-11-12 13:37:36 >> 0:0:0:0:0:0:0:1:55650 >> Sending Contents With MIME Type: text/html
+2018-11-12 13:37:36 >> 0:0:0:0:0:0:0:1:55650 >> Terminating Connection
+2018-11-12 13:37:36 >> 0:0:0:0:0:0:0:1:55650 >> Terminated Connection
+2018-11-12 13:37:37 >> 0:0:0:0:0:0:0:1:55651 >> Accepting Connection
+2018-11-12 13:37:37 >> 0:0:0:0:0:0:0:1:55651 >> New Request: GET /manifest.json HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: */*
+Referer: http://localhost:8080/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+2018-11-12 13:37:37 >> 0:0:0:0:0:0:0:1:55651 >> /manifest.json File Not Found in Directory
+2018-11-12 13:37:37 >> 0:0:0:0:0:0:0:1:55651 >> Sending Contents With MIME Type: text/html
+2018-11-12 13:37:37 >> 0:0:0:0:0:0:0:1:55651 >> Terminating Connection
+2018-11-12 13:37:37 >> 0:0:0:0:0:0:0:1:55651 >> Terminated Connection
+2018-11-12 13:38:12 >> 0:0:0:0:0:0:0:1:55654 >> Accepting Connection
+2018-11-12 13:38:12 >> 0:0:0:0:0:0:0:1:55655 >> Accepting Connection
+2018-11-12 13:38:26 >> 0:0:0:0:0:0:0:1:55654 >> Terminating Connection
+2018-11-12 13:38:26 >> 0:0:0:0:0:0:0:1:55655 >> Terminating Connection
+2018-11-12 13:38:26 >> 0:0:0:0:0:0:0:1:55655 >> Terminated Connection
+2018-11-12 13:38:26 >> 0:0:0:0:0:0:0:1:55654 >> Terminated Connection
+2018-11-12 13:38:26 >> 0:0:0:0:0:0:0:1:55656 >> Accepting Connection
+2018-11-12 13:38:26 >> 0:0:0:0:0:0:0:1:55657 >> Accepting Connection
+2018-11-12 13:38:26 >> 0:0:0:0:0:0:0:1:55656 >> New Request: GET /log.txt HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.1.1872275772.1542006886; _gid=GA1.1.1912849714.1542006886; _gat=1
+2018-11-12 13:38:26 >> 0:0:0:0:0:0:0:1:55656 >> Requested file: log.txt
+2018-11-12 13:38:26 >> 0:0:0:0:0:0:0:1:55656 >> Sending Contents With MIME Type: text/plain
+2018-11-12 13:38:26 >> 0:0:0:0:0:0:0:1:55656 >> Terminating Connection
+2018-11-12 13:38:26 >> 0:0:0:0:0:0:0:1:55656 >> Terminated Connection
+2018-11-12 13:41:41 >> 0:0:0:0:0:0:0:1:55657 >> Terminating Connection
+2018-11-12 13:41:41 >> 0:0:0:0:0:0:0:1:55657 >> Terminated Connection
